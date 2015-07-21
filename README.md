@@ -1,1 +1,1 @@
-# ror-platzi
+# ror-v2
